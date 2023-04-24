@@ -59,7 +59,7 @@ export default function Home() {
             <a href="mailto:bryanzikhayi@gmail.com">
               <AiOutlineMail />
             </a>
-            <a href="//github.com/Bryan-Biggie">
+            <a href="//github.com/Bryan-Biggie/Profile-NextJS">
               <AiFillGithub />
             </a>
           </div>
